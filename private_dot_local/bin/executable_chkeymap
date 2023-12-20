@@ -1,0 +1,4 @@
+#!/bin/sh
+
+hyprctl switchxkblayout "dakai-ps/2+usb-keyboard" next 
+killall xcape 2>/dev/null ; xcape -e 'Super_L=Escape'

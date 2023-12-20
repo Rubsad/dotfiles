@@ -1,0 +1,3 @@
+#!/bin/bash
+
+ffplay -pixel_format yuyv422 /dev/video0
