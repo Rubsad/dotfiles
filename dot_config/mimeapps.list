@@ -1,0 +1,8 @@
+[Default Applications]
+x-scheme-handler/etcher=balena-etcher.desktop
+image/png=nsxiv.desktop
+image/jpeg=nsxiv.desktop
+
+[Added Associations]
+image/png=nsxiv.desktop;
+image/jpeg=nsxiv.desktop;
